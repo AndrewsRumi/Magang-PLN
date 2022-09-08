@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "REST-API Node JS (MERN Stack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewsRumi/Magang-PLN.git"
+  },
+  "author": "Andrews Denis Rumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewsRumi/Magang-PLN/issues"
+  },
+  "homepage": "https://github.com/AndrewsRumi/Magang-PLN#readme"
+}
